@@ -1,22 +1,21 @@
 <?php
 /**
- * Waterlava functions and definitions
+ * Theme Functions
  *
  * @author Jegstudio
  * @package waterlava
- * @since 1.0.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-defined( 'WATERLAVA_VERSION' ) || define( 'WATERLAVA_VERSION', '1.0.9' );
+defined( 'WATERLAVA_VERSION' ) || define( 'WATERLAVA_VERSION', '1.3.0' );
 defined( 'WATERLAVA_DIR' ) || define( 'WATERLAVA_DIR', trailingslashit( get_template_directory() ) );
-defined( 'WATERLAVA_URI' ) || define( 'WATERLAVA_URI', trailingslashit( get_template_directory_uri() ) );
+
+defined( 'GUTENVERSE_COMPANION_REQUIRED_VERSION' ) || define( 'GUTENVERSE_COMPANION_REQUIRED_VERSION', '1.0.5' );
+defined( 'GUTENVERSE_LIBRARY_SERVER' ) || define( 'GUTENVERSE_LIBRARY_SERVER', 'https://gutenverse.com' );
 
 require get_parent_theme_file_path( 'inc/autoload.php' );
-require get_parent_theme_file_path( 'inc/helper.php' );
-require get_parent_theme_file_path( 'inc/wptt-webfont-loader.php' );
 
 Waterlava\Init::instance();

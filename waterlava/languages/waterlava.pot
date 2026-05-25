@@ -1,435 +1,437 @@
-# Copyright (C) 2024 Jegstudio
+# Copyright (C) 2026 Jegstudio
 # This file is distributed under the GNU General Public License v3 or later..
 msgid ""
 msgstr ""
-"Project-Id-Version: Waterlava 1.0.9\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/waterlava\n"
+"Project-Id-Version: Waterlava 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/waterlava-Z1NhLMRTElft\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-05-17T05:56:44+00:00\n"
+"POT-Creation-Date: 2026-05-20T08:59:14+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.9.0\n"
+"X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: waterlava\n"
 
 #. Theme Name of the theme
+#: style.css
+#: inc/class/class-init.php:1944
 msgid "Waterlava"
 msgstr ""
 
 #. Theme URI of the theme
-msgid "https://gutenverse.com/waterlava-theme"
+#: style.css
+msgid "https://gutenverse.com/themes/waterlava/"
 msgstr ""
 
 #. Description of the theme
-msgid "WaterLava is a modern, responsive, and elegant style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. WaterLava’s created especially for Spa and Wellness Center, Meditation, Fashion and Beauty Salon, and all similar businesses website for companies or individuals that need a beautiful landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient."
+#: style.css
+#: inc/class/class-init.php:1945
+msgid "WaterLava is a Spa & Wellness Center WordPress Block Theme designed for businesses that want to create a calming and professional online presence. Built with full site editing and powered by Gutenverse, this theme provides a flexible and visually elegant platform to showcase wellness services, spa treatments, and relaxation experiences with a clean and modern layout. Whether you manage a luxury spa, wellness studio, or beauty treatment center, WaterLava helps you present your services with comfort and sophistication. It is ideal for spa therapists, wellness coaches, massage centers, beauty salons, and holistic health businesses looking to strengthen their online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight services, treatment packages, staff profiles, and customer testimonials. Optimized for performance and usability, WaterLava enables you to create a polished website that reflects your brand identity and expertise in Spa & Wellness Center services. If you are looking for a scalable and elegant solution, WaterLava is a reliable Spa & Wellness Center WordPress theme to grow your wellness business online."
 msgstr ""
 
 #. Author of the theme
+#: style.css
 msgid "Jegstudio"
 msgstr ""
 
 #. Author URI of the theme
+#: style.css
 msgid "https://gutenverse.com"
 msgstr ""
 
 #: inc/class/class-block-patterns.php:57
-msgid "Waterlava Basic Patterns"
+msgid "Waterlava Core Patterns"
 msgstr ""
 
 #: inc/class/class-block-patterns.php:61
 msgid "Waterlava Gutenverse Patterns"
 msgstr ""
 
-#: inc/class/class-block-styles.php:58
-msgid "Button with Border & Hover Fill"
+#: inc/class/class-block-patterns.php:62
+msgid "Waterlava Gutenverse PRO Patterns"
 msgstr ""
 
-#: inc/class/class-block-styles.php:66
-msgid "Button with Border & Hover Fill 2"
+#: inc/class/class-init.php:1946
+msgid "Plugin Requirement"
 msgstr ""
 
-#: inc/class/class-block-styles.php:74
-msgid "Button with Border & Hover Fill 3"
+#: inc/class/class-init.php:1947
+msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
 msgstr ""
 
-#: inc/class/class-block-styles.php:82
-msgid "Line Separator"
+#: inc/class/class-init.php:1953
+msgid "Install Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-block-styles.php:90
-#: inc/class/class-block-styles.php:98
-#: inc/class/class-block-styles.php:106
-msgid "Box Shadow"
+#: inc/class/class-init.php:1954
+msgid "Activate Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-block-styles.php:114
-#: inc/class/class-block-styles.php:122
-#: inc/class/class-block-styles.php:130
-msgid "Box Shadow on Hover"
+#: inc/class/class-init.php:1955
+msgid "Gutenverse Plugin Installed"
 msgstr ""
 
-#: inc/class/class-block-styles.php:138
-#: inc/class/class-block-styles.php:146
-#: inc/class/class-block-styles.php:154
-#: inc/class/class-block-styles.php:210
-msgid "Border Hover"
+#: inc/class/class-init.php:1969
+#: inc/class/class-plugin-notice.php:90
+msgid "Gutenverse"
 msgstr ""
 
-#: inc/class/class-block-styles.php:162
-#: inc/class/class-block-styles.php:170
-#: inc/class/class-block-styles.php:178
-msgid "Border Bottom"
+#: inc/class/class-init.php:1970
+#: inc/class/class-plugin-notice.php:91
+msgid "Gutenverse is a WordPress blocks plugin, page builder, and website builder for the native Block Editor and Site Editor. Create fast, responsive websites without code using 57 blocks, 600+ templates, global styles, responsive controls, popup builder tools, and block theme support."
 msgstr ""
 
-#: inc/class/class-block-styles.php:186
-#: inc/class/class-block-styles.php:194
-#: inc/class/class-block-styles.php:202
-msgid "Border Bottom Hover"
+#: inc/class/class-init.php:1983
+#: inc/class/class-plugin-notice.php:104
+msgid "Gutenverse Form"
 msgstr ""
 
-#: inc/class/class-init.php:963
-msgid "Install Required Plugins"
+#: inc/class/class-init.php:1984
+#: inc/class/class-plugin-notice.php:105
+msgid "Gutenverse Form is a WordPress form plugin, contact form builder, block form plugin, and booking form builder for the native Block Editor. Create contact forms, booking forms, reservation forms, subscribe forms, lead forms, feedback forms, and custom WordPress forms without code."
 msgstr ""
 
-#: inc/class/class-init.php:1210
-msgid "Take Your Website To New Height with"
+#: inc/class/class-init.php:1996
+#: inc/class/class-plugin-notice.php:117
+msgid "Gutenverse Companion"
 msgstr ""
 
-#: inc/class/class-init.php:1211
-msgid "Waterlava theme work best with Gutenverse plugin. By installing Gutenverse plugin you may access Waterlava templates built with Gutenverse and get access to more than 40 free blocks, hundred free Layout and Section."
+#: inc/class/class-init.php:1997
+#: inc/class/class-plugin-notice.php:118
+msgid "A companion plugin designed specifically to enhance and extend the functionality of Gutenverse base themes. This plugin integrates seamlessly with the base themes, providing additional features, customization options, and advanced tools to optimize the overall user experience and streamline the development process."
 msgstr ""
 
-#: inc/class/class-init.php:1249
-msgid "Please install newer version of Gutenverse plugin! (v1.1.2 and above)"
+#: inc/class/class-init.php:2023
+msgid "Waterlava PRO"
 msgstr ""
 
-#: inc/class/class-init.php:1279
-msgid "Primary"
+#: inc/class/class-init.php:2086
+msgid "You don't have any demo activated"
 msgstr ""
 
-#: inc/class/class-upgrader.php:123
-#: inc/class/class-upgrader.php:169
-msgid "%s Upgrade Notice!"
+#: inc/class/class-init.php:2154
+#: inc/class/class-init.php:2156
+#: inc/class/class-init.php:2157
+msgid "unknown"
 msgstr ""
 
-#: inc/class/class-upgrader.php:125
-msgid "There are some new exciting updates we want to announce. This update will required the latest version of Gutenverse plugin to work smoothly, so we recommend to update your Gutenverse plugin."
+#: inc/class/class-init.php:2159
+msgid "by"
 msgstr ""
 
-#: inc/class/class-upgrader.php:131
-msgid "Go to plugin page"
+#: inc/class/class-init.php:2181
+#: inc/class/class-init.php:2182
+msgid "Waterlava Dashboard"
 msgstr ""
 
-#: inc/class/class-upgrader.php:135
-#: inc/class/class-upgrader.php:179
-msgid "Close notification"
+#: inc/class/class-plugin-notice.php:347
+msgid "Installing..."
 msgstr ""
 
-#: inc/class/class-upgrader.php:171
-msgid "We've made some changes to page content layout and global style. Please check "
+#: inc/class/class-plugin-notice.php:387
+msgid "Install Failed, Try Again"
 msgstr ""
 
-#: inc/class/class-upgrader.php:172
-msgid "your pages"
+#: inc/class/class-plugin-notice.php:401
+msgid "Thank you For Installing Waterlava Theme"
 msgstr ""
 
-#: inc/class/class-upgrader.php:173
-msgid " to see how the new layout looks on your site. You can always revert back by enable the inherit layout option on the "
+#: inc/class/class-plugin-notice.php:403
+msgid "Unlock the full potential of your website with the recommended plugins."
 msgstr ""
 
-#: inc/class/class-upgrader.php:174
-msgid "Gutenverse settings."
+#: inc/class/class-plugin-notice.php:405
+msgid "Activate it to explore exclusive extensions, ready-to-use demo templates, and powerful features that make building your site easier and more enjoyable."
 msgstr ""
 
-#: inc/class/class-upgrader.php:175
-msgid " dashboard. Learn more about new layout on "
+#: inc/class/class-plugin-notice.php:409
+msgid "Install Recommended Plugins"
 msgstr ""
 
-#: inc/class/class-upgrader.php:176
-msgid "this page."
+#: inc/class/class-plugin-notice.php:413
+msgid "Don\\'t refresh the page when installing recommended plugins"
 msgstr ""
 
-#: inc/class/class-upgrader.php:181
-msgid "Got Question?"
-msgstr ""
-
-#: inc/patterns/core-404.php:6
+#: inc/patterns/waterlava-core-404.php:6
 msgid "404"
 msgstr ""
 
-#: inc/patterns/core-archive-section.php:6
+#: inc/patterns/waterlava-core-archive-section.php:6
 msgid "Archive Section"
 msgstr ""
 
-#: inc/patterns/core-footer.php:6
+#: inc/patterns/waterlava-core-footer.php:6
 msgid "Footer"
 msgstr ""
 
-#: inc/patterns/core-header.php:6
+#: inc/patterns/waterlava-core-header.php:6
 msgid "Header"
 msgstr ""
 
-#: inc/patterns/core-home-hero.php:6
+#: inc/patterns/waterlava-core-home-hero.php:6
 msgid "Hero Hero"
 msgstr ""
 
-#: inc/patterns/core-home-section-1.php:6
+#: inc/patterns/waterlava-core-home-section-1.php:6
 msgid "Hero Section 1"
 msgstr ""
 
-#: inc/patterns/core-home-section-2.php:6
+#: inc/patterns/waterlava-core-home-section-2.php:6
 msgid "Hero Section 2"
 msgstr ""
 
-#: inc/patterns/core-home-section-3.php:6
+#: inc/patterns/waterlava-core-home-section-3.php:6
 msgid "Hero Section 3"
 msgstr ""
 
-#: inc/patterns/core-home-section-4.php:6
+#: inc/patterns/waterlava-core-home-section-4.php:6
 msgid "Hero Section 4"
 msgstr ""
 
-#: inc/patterns/core-home-section-5.php:6
+#: inc/patterns/waterlava-core-home-section-5.php:6
 msgid "Hero Section 5"
 msgstr ""
 
-#: inc/patterns/core-home-section-6.php:6
+#: inc/patterns/waterlava-core-home-section-6.php:6
 msgid "Hero Section 6"
 msgstr ""
 
-#: inc/patterns/core-home-section-7.php:6
+#: inc/patterns/waterlava-core-home-section-7.php:6
 msgid "Hero Section 7"
 msgstr ""
 
-#: inc/patterns/core-home-section-8.php:6
+#: inc/patterns/waterlava-core-home-section-8.php:6
 msgid "Hero Section 8"
 msgstr ""
 
-#: inc/patterns/core-index-section.php:6
+#: inc/patterns/waterlava-core-index-section.php:6
 msgid "Index Section"
 msgstr ""
 
-#: inc/patterns/core-page-title.php:6
+#: inc/patterns/waterlava-core-page-title.php:6
 msgid "Page Title"
 msgstr ""
 
-#: inc/patterns/core-search-section.php:6
+#: inc/patterns/waterlava-core-search-section.php:6
 msgid "Search Section"
 msgstr ""
 
-#: inc/patterns/core-single-title.php:6
+#: inc/patterns/waterlava-core-single-title.php:6
 msgid "Post Title"
 msgstr ""
 
-#: inc/patterns/gutenverse-404-hero.php:6
+#: inc/patterns/waterlava-gutenverse-404-hero.php:6
 msgid "Gutenverse 404 Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-about-hero.php:6
-msgid "Gutenverse About Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-1.php:6
-msgid "Gutenverse About Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-2.php:6
-msgid "Gutenverse About Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-3.php:6
-msgid "Gutenverse About Section 3"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-4.php:6
-msgid "Gutenverse About Section 4"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-5.php:6
-msgid "Gutenverse About Section 5"
-msgstr ""
-
-#: inc/patterns/gutenverse-about-section-6.php:6
-msgid "Gutenverse About Section 6"
-msgstr ""
-
-#: inc/patterns/gutenverse-archive-hero.php:6
+#: inc/patterns/waterlava-gutenverse-archive-hero.php:6
 msgid "Gutenverse Archive Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-archive-section-1.php:6
-msgid "Gutenverse Archive Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-blog-hero.php:6
-msgid "Gutenverse Blog Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-blog-section-1.php:6
-msgid "Gutenverse Blog Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-hero.php:6
-msgid "Gutenverse Contact Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-section-1.php:6
-msgid "Gutenverse Contact Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-section-2.php:6
-msgid "Gutenverse Contact Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-section-3.php:6
-msgid "Gutenverse Contact Section 3"
-msgstr ""
-
-#: inc/patterns/gutenverse-contact-section-4.php:6
-msgid "Gutenverse Contact Section 4"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-hero.php:6
-msgid "Gutenverse FAQ Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-section-1.php:6
-msgid "Gutenverse FAQ Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-section-2.php:6
-msgid "Gutenverse FAQ Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-faq-section.php:6
-msgid "Gutenverse FAQ Section"
-msgstr ""
-
-#: inc/patterns/gutenverse-footer.php:6
+#: inc/patterns/waterlava-gutenverse-footer.php:6
 msgid "Gutenverse Footer"
 msgstr ""
 
-#: inc/patterns/gutenverse-header.php:6
+#: inc/patterns/waterlava-gutenverse-header.php:6
 msgid "Gutenverse Header"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-hero.php:6
+#: inc/patterns/waterlava-gutenverse-home-hero.php:6
 msgid "Gutenverse Home Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-1.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-1.php:6
 msgid "Gutenverse Home Section 1"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-2.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-2.php:6
 msgid "Gutenverse Home Section 2"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-3.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-3.php:6
 msgid "Gutenverse Home Section 3"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-4.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-4.php:6
 msgid "Gutenverse Home Section 4"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-5.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-5.php:6
 msgid "Gutenverse Home Section 5"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-6.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-6.php:6
 msgid "Gutenverse Home Section 6"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-7.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-7.php:6
 msgid "Gutenverse Home Section 7"
 msgstr ""
 
-#: inc/patterns/gutenverse-home-section-8.php:6
+#: inc/patterns/waterlava-gutenverse-home-section-8.php:6
 msgid "Gutenverse Home Section 8"
 msgstr ""
 
-#: inc/patterns/gutenverse-index-hero.php:6
+#: inc/patterns/waterlava-gutenverse-index-hero.php:6
 msgid "Gutenverse Index Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-index-section-1.php:6
-msgid "Gutenverse Index Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-index-section-2.php:6
-msgid "Gutenverse Index Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-page-hero.php:6
+#: inc/patterns/waterlava-gutenverse-page-hero.php:6
 msgid "Gutenverse Page Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-page-section-1.php:6
-msgid "Gutenverse Page Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-hero.php:6
-msgid "Gutenverse Pricing Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-section-1.php:6
-msgid "Gutenverse Pricing Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-section-2.php:6
-msgid "Gutenverse Pricing Menu 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-pricing-section.php:6
-msgid "Gutenverse Pricing Section"
-msgstr ""
-
-#: inc/patterns/gutenverse-search-hero.php:6
+#: inc/patterns/waterlava-gutenverse-search-hero.php:6
 msgid "Gutenverse Search Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-search-section-1.php:6
-msgid "Gutenverse Search Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-search-section-2.php:6
-msgid "Gutenverse Search Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-hero.php:6
-msgid "Gutenverse Services Hero"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-section-1.php:6
-msgid "Gutenverse Services Section 1"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-section-2.php:6
-msgid "Gutenverse Services Section 2"
-msgstr ""
-
-#: inc/patterns/gutenverse-services-section-3.php:6
-msgid "Gutenverse Services Section 3"
-msgstr ""
-
-#: inc/patterns/gutenverse-single-hero.php:6
+#: inc/patterns/waterlava-gutenverse-single-hero.php:6
 msgid "Gutenverse Single Hero"
 msgstr ""
 
-#: inc/patterns/gutenverse-single-section-1.php:6
+#: inc/patterns/waterlava-gutenverse-single-section-1.php:6
 msgid "Gutenverse Single Section 1"
 msgstr ""
 
-#: index.php:4
-msgid "This theme was built for the WordPress full-site-editing feature. If you use WordPress below version 5.9, you need to install and activate the Gutenberg plugin to make it work. "
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank canvas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fourth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fifth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sixth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Seventh (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Eighth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ninth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tenth (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Eleventh (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Twelfth (Legacy)"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
 msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Overlay"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Input"
 msgstr ""
 
 #: theme.json
@@ -439,57 +441,92 @@ msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Third"
+msgid "White"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Fourth"
+msgid "Dark Primary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Fifth"
+msgid "Dark Secondary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Sixth"
+msgid "Dark Text Primary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Seventh"
+msgid "Dark Text Secondary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Eighth"
+msgid "Dark Accent"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Ninth"
+msgid "Dark Accent Secondary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Tenth"
+msgid "Dark Accent Hover"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Eleventh"
+msgid "Dark Background Primary"
 msgstr ""
 
 #: theme.json
 msgctxt "Color name"
-msgid "Twelfth"
+msgid "Dark Background Secondary"
 msgstr ""
 
 #: theme.json
-msgctxt "Gradient name"
-msgid "Pink to Yellow"
+msgctxt "Color name"
+msgid "Dark Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Overlay"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Mulish"
 msgstr ""
 
 #: theme.json
@@ -499,17 +536,7 @@ msgstr ""
 
 #: theme.json
 msgctxt "Font family name"
-msgid "Muli"
-msgstr ""
-
-#: theme.json
-msgctxt "Font family name"
 msgid "Alex Brush"
-msgstr ""
-
-#: theme.json
-msgctxt "Font size name"
-msgid "Tiny"
 msgstr ""
 
 #: theme.json
@@ -519,7 +546,7 @@ msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Normal"
+msgid "Medium"
 msgstr ""
 
 #: theme.json
@@ -529,25 +556,70 @@ msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Extra large"
+msgid "Extra Large"
 msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Huge"
+msgid "XX LARGE"
 msgstr ""
 
 #: theme.json
 msgctxt "Font size name"
-msgid "Gigantic"
+msgid "HEADING 1"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Blank Canvas"
+msgctxt "Font size name"
+msgid "HEADING 2"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Basic Template"
+msgctxt "Font size name"
+msgid "HEADING 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "HEADING 4"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H1"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H1 Alt"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H2"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H3"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H4"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "H6 alt"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Button"
 msgstr ""

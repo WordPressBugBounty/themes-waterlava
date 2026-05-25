@@ -1,24 +1,23 @@
 === Waterlava ===
 Contributors: Jegstudio
-Requires at least: 5.9
-Tested up to: 6.1
+Requires at least: 6.5
+Tested up to: 6.9
 Requires PHP: 7.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-WaterLava is a modern, responsive, and elegant style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. WaterLava’s created especially for Spa and Wellness Center, Meditation, Fashion and Beauty Salon, and all similar businesses website for companies or individuals that need a beautiful landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient.
-
+WaterLava is a Spa & Wellness Center WordPress Block Theme designed for businesses that want to create a calming and professional online presence. Built with full site editing and powered by Gutenverse, this theme provides a flexible and visually elegant platform to showcase wellness services, spa treatments, and relaxation experiences with a clean and modern layout. Whether you manage a luxury spa, wellness studio, or beauty treatment center, WaterLava helps you present your services with comfort and sophistication. It is ideal for spa therapists, wellness coaches, massage centers, beauty salons, and holistic health businesses looking to strengthen their online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight services, treatment packages, staff profiles, and customer testimonials. Optimized for performance and usability, WaterLava enables you to create a polished website that reflects your brand identity and expertise in Spa & Wellness Center services. If you are looking for a scalable and elegant solution, WaterLava is a reliable Spa & Wellness Center WordPress theme to grow your wellness business online.
 
 == Copyright ==
 
-Waterlava, 2022 Jegstudio
+Waterlava, 2026 Jegstudio
 Waterlava is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
+the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
@@ -33,8 +32,8 @@ Self designed images:
 - waterlava/assets/img/Logo-putih.webp
 - waterlava/assets/img/Logo.webp
 - waterlava/assets/img/Tandatangan.webp
-Declaring these self designed images under GPL license version 2.0 =
-License URL: http://www.gnu.org/licenses/gpl-2.0.html
+Declaring these self designed images under GPL license version 3.0 =
+License URL: http://www.gnu.org/licenses/gpl-3.0.html
 
 Image for theme screenshot, Credit Monika Stawowy
 License: CC0 1.0 Universal (CC0 1.0)
@@ -219,37 +218,46 @@ Source: https://stocksnap.io/photo/cosmeticoil-essentialoil-W3LQTILJNT
 
 == Changelog ==
 
-= 1.0.9 - 2024-05-17 =
+= 1.3.0 =
+* Update theme dashboard
+* Remove unused gutenverse templates
+* Improved: Overall performance and SEO optimization
+
+= 1.2.0 =
+* Update template core
+* Update template Gutenverse
+
+= 1.0.9 =
 * Update Gutenverse template path
 * Remove unused core templates
 
-= 1.0.8 - 2024-03-21 =
+= 1.0.8 =
 * Update notice design
 
-= 1.0.7 - 2024-01-31 =
+= 1.0.7 =
 * Update Ajax
 
-= 1.0.6 - 2023-07-11 =
+= 1.0.6 =
 * Update theme dashboard
 * Fix post content inherit layout
 * Improve the loading of font assets.
 
-= 1.0.5 - 2022-11-16 =
+= 1.0.5 =
 * Use global fonts and colors in templates
 * Update page templates
 * Add new custom templates : blank canvas, and basic template
 
-= 1.0.4 - 2022-09-08 =
+= 1.0.4 =
 * Add new gutenverse templates for 404, archive, index, page, and search
 
-= 1.0.3 - 2022-08-18 =
+= 1.0.3 =
 * Fix gutenverse templates load mechanism
 
-= 1.0.2 - 2022-07-29 =
+= 1.0.2 =
 * Fix animation load issue
 
-= 1.0.1 - 2022-07-21 =
+= 1.0.1 =
 * Lower image size for page-home.webp
 
-= 1.0.0 - 2022-07-20 =
+= 1.0.0 =
 * Initial release
